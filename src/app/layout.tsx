@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   keywords: '청년지원금, 연말정산, 신용점수, 전세대출, 실손보험, 절세',
   verification: {
     google: 'lz8_hF03NyDLm4BthOpSbuSYsTUpYeHESbMJdWuUJ_4',
+    other: {
+      'naver-site-verification': ['85232f9b45fe438b93a88aaf4200b6e47881ec44'],
+    },
   },
   openGraph: {
     title: '핀인포 — 청년·직장인 금융 정보',
